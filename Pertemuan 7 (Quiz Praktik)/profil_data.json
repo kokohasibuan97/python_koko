@@ -1,0 +1,14 @@
+[
+    {
+        "id": "U001",
+        "nama": "Koko Bonardo Hasibuan",
+        "email": "koko123@gmail.com",
+        "telepon": "081263502536",
+        "tanggal_lahir": "28-10-2005",
+        "jenis_kelamin": "L",
+        "alamat": "Jl. Medan Km 10",
+        "status": "Mahasiswa",
+        "hobi": "Menyanyi,Melukis",
+        "keterangan": "-"
+    }
+]
